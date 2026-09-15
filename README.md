@@ -4,10 +4,10 @@ One of the founding engineers at [NeuralArc](https://neuralarc.ai), leading AI
 infrastructure. I build the measurement before the claim.
 
 Currently building [ModelBeat](https://modelbeat.ai), an LLM gateway that routes
-requests across providers on cost under a measured quality floor. Before that,
+requests across providers on cost under a per-task quality floor. Before that,
 [Helium AI](https://he2.ai).
 
-**What I care about:** routing decisions with a measured quality floor,
+**What I care about:** routing decisions with a quality floor whose cost is accounted per request,
 evaluation harnesses that report their own verifier error, billing that
 reconciles to the invoice, and tenant isolation that lives in the database
 rather than the application.
