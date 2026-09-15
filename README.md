@@ -18,7 +18,7 @@ Next.js, Supabase.
 ## Selected work
 
 - **ModelBeat** — LLM routing gateway. I lead the router, the evaluation
-  harness, billing reconciliation and infrastructure. Private;
+  harness, billing and infrastructure. Private;
   [modelbeat.ai](https://modelbeat.ai)
 - **Helium AI** — multi-agent platform for enterprise workflows. Owned the
   orchestration stack behind multi-step agent runs and the voice agent, built an
@@ -37,8 +37,8 @@ Next.js, Supabase.
 ## Writing
 
 - [You cannot rank a model. You can only rank it at something.](https://www.linkedin.com/feed/update/urn:li:activity:7501158823114506240/)
-  — 12 models, ~4,800 calls, and why a benchmark without its verifier's error
-  rate is incomplete.
+  — 12 open models, every answer executed or exact-matched, and why a benchmark
+  without its verifier's error rate is incomplete.
 - [go build does not typecheck your test files](https://www.linkedin.com/posts/aman-tripathii_go-build-does-not-typecheck-your-test-files-activity-7498340852285538304-6z3T)
 
 ## Elsewhere
